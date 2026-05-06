@@ -1,4 +1,4 @@
-# Marketing Report
+# Report Pipeline
 
 Multi-client digital marketing reporting dashboard. Batch generates static HTML reports from analytics, advertising, and platform data.
 
